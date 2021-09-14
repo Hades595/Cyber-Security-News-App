@@ -15,8 +15,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //When the user clicks the start button
     public void onClickStart(View v){
+        //Debugging
         //Toast.makeText(this, "Message", Toast.LENGTH_SHORT).show();
+
+        //Start the list activity
         Intent i = new Intent(this, ListActivity.class);
         startActivity(i);
     }
