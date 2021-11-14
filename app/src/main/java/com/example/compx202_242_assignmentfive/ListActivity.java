@@ -24,7 +24,7 @@ public class ListActivity extends AppCompatActivity {
         ArrayAdapter<String> listItems = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, array);
 
         //Get the list view from the XML
-        ListView listView = (ListView)findViewById(R.id.listview_scms);
+        ListView listView = (ListView)findViewById(R.id.listview_articles);
         //Fill the values into the listview with the adapter
         listView.setAdapter(listItems);
 

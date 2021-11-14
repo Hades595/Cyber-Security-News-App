@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/cjmeh/Documents/Programming/Android/CSN/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3671875" />
+        <entry key="..\:/cjmeh/Documents/Programming/Android/CSN/app/src/main/res/drawable-v24/selector_button.xml" value="0.3671875" />
+        <entry key="..\:/cjmeh/Documents/Programming/Android/CSN/app/src/main/res/layout/activity_detail.xml" value="0.27898550724637683" />
+        <entry key="..\:/cjmeh/Documents/Programming/Android/CSN/app/src/main/res/layout/activity_list.xml" value="0.27898550724637683" />
         <entry key="..\:/cjmeh/Documents/UNI/Year 2/Semester B/COMPX202/Assignment 5/app/src/main/res/layout/activity_detail.xml" value="0.35054347826086957" />
         <entry key="..\:/cjmeh/Documents/UNI/Year 2/Semester B/COMPX202/Assignment 5/app/src/main/res/layout/activity_list.xml" value="0.35054347826086957" />
         <entry key="..\:/cjmeh/Documents/UNI/Year 2/Semester B/COMPX202/Assignment 5/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
